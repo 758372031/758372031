@@ -1298,7 +1298,7 @@ h3.detail-title {
 	top: 30vh
 }
 .bg-work-yunan {
-	background: url("../img/travel/china/yunan/00.jpg") center no-repeat;
+	background: url("../img/travel/china/yunan/01.jpg") center no-repeat;
 	z-index: 3;
 	position: fixed;
 	text-align: center;
@@ -1309,7 +1309,7 @@ h3.detail-title {
 }
 
 .bg-work-2yunan {
-	background: url("../img/travel/china/yunan/01.jpg") center no-repeat;
+	background: url("../img/travel/china/yunan/00.jpg") center no-repeat;
 	z-index: 3;
 	position: fixed;
 	text-align: center;
@@ -1343,6 +1343,7 @@ h3.detail-title {
 	left: 40%;
 	top: 25vh
 }
+
 
 .about-work h3 {
 	color: #fff;
